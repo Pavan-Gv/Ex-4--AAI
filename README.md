@@ -1,4 +1,4 @@
-<H3>NAME: G Venkata Pavan Kummar</H3>
+<H3>NAME: G Venkata Pavan Kumar</H3>
 <H3>REGISTER NO.: 212221240013.</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 12-03-2024</H3>
